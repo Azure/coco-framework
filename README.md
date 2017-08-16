@@ -1,4 +1,8 @@
 
+# Source Code
+
+Microsoft plans to open source the Coco Framework code in 2018.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
