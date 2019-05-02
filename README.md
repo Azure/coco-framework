@@ -1,7 +1,8 @@
 
 # Source Code
 
-Microsoft plans to open source the Confidential Consortium Blockchain Framework code in 2018.
+The Confidential Consortium Framework (CCF, formerly coco) source code and license can be found at
+https://github.com/Microsoft/CCF
 
 # Contributing
 
@@ -21,8 +22,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+see the [LICENSE-DOCS](LICENSE-DOCS) file.
 
 Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
 may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
